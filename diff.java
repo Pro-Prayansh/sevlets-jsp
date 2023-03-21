@@ -1,4 +1,4 @@
-public class d
+public class diff
 {
    public static void main(String ar[])
    {
